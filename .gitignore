@@ -11,16 +11,16 @@
 *.userprefs
 
 # Build results
-[Dd]ebug/
-[Dd]ebugPublic/
-[Rr]elease/
-[Rr]eleases/
-x64/
-x86/
-bld/
-[Bb]in/
-[Oo]bj/
-[Ll]og/
+MealChatBot/[Dd]ebug/
+MealChatBot/[Dd]ebugPublic/
+MealChatBot/[Rr]elease/
+MealChatBot/[Rr]eleases/
+MealChatBot/x64/
+MealChatBot/x86/
+MealChatBot/bld/
+MealChatBot/[Bb]in/
+MealChatBot/[Oo]bj/
+MealChatBot/[Ll]og/
 
 # Visual Studio 2015 cache/options directory
 .vs/
